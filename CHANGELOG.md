@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/MuhammadAlsaied/semver/compare/v1.1.0...v1.2.0) (2020-12-17)
+
+
+### Features
+
+* **pencil:** dsf ([0a0435a](https://github.com/MuhammadAlsaied/semver/commit/0a0435ae54ea33d2b5ac0987f661b969b605bfab))
+
 # [1.1.0](https://github.com/MuhammadAlsaied/semver/compare/v1.0.2...v1.1.0) (2020-12-17)
 
 
