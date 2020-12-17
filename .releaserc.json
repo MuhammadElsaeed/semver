@@ -4,9 +4,12 @@
         	"@semantic-release/commit-analyzer",
         	"@semantic-release/release-notes-generator",
 			"@semantic-release/github",
-			"@semantic-release/exec",
-		[
-		"@semantic-release/changelog",
+
+			["@semantic-release/exec", {
+				"prepareCmd" : "export ver=${nextRelease.version}"
+			}],
+
+		["@semantic-release/changelog",
 			{
 				"changelogFile": "CHANGELOG.md"
 			}
