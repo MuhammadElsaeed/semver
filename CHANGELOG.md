@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/MuhammadAlsaied/semver/compare/v1.4.0...v1.4.1) (2020-12-17)
+
+
+### Bug Fixes
+
+* **pencil:** dfgg ([dacd4b3](https://github.com/MuhammadAlsaied/semver/commit/dacd4b3ac26522611382bd43715adaeab35dd347))
+
 # [1.4.0](https://github.com/MuhammadAlsaied/semver/compare/v1.3.0...v1.4.0) (2020-12-17)
 
 
