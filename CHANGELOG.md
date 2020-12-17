@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/MuhammadAlsaied/semver/compare/v1.0.1...v1.0.2) (2020-12-17)
+
+
+### Bug Fixes
+
+* **pencil:** stop graphite breaking when too much pressure applied ([da0340d](https://github.com/MuhammadAlsaied/semver/commit/da0340da46b6051f5e677f868c40b5615fcbd906))
+
 ## [1.0.1](https://github.com/MuhammadAlsaied/semver/compare/v1.0.0...v1.0.1) (2020-12-17)
 
 
