@@ -1,3 +1,17 @@
+# [1.1.0](https://github.com/MuhammadAlsaied/semver/compare/v1.0.2...v1.1.0) (2020-12-17)
+
+
+### Features
+
+* **pencil:** dfrgfbcd ([68d1297](https://github.com/MuhammadAlsaied/semver/commit/68d1297bf80694ab638765dc4116c9264627f462))
+
+# [1.1.0](https://github.com/MuhammadAlsaied/semver/compare/v1.0.2...v1.1.0) (2020-12-17)
+
+
+### Features
+
+* **pencil:** dfrgfbcd ([68d1297](https://github.com/MuhammadAlsaied/semver/commit/68d1297bf80694ab638765dc4116c9264627f462))
+
 ## [1.0.2](https://github.com/MuhammadAlsaied/semver/compare/v1.0.1...v1.0.2) (2020-12-17)
 
 
